@@ -1,14 +1,19 @@
-### Hewwoooo >w<
-<!--
-**NajikijaN/NajikijaN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Intro
+Hi — ik ben Kijan. Ik bouw moderne websites en webapps met een focus op performance en toegankelijkheid. Bekijk live demo’s en projecten op najikweb.com.
 
+Skills
+Frontend: HTML, CSS, JavaScript.
+Backend: PHP.
+Tools: Git, VS Code, browser devtools.
 
-- 🔭 I’m currently working on: creating Flipper shit
-- 🌱 I’m currently learning: Python, C++
-- 👯 I’m looking to collaborate on: -
-- 🤔 I’m looking for help with: -
-- 💬 Ask me about: Flipper Zero shit
-- 📫 How to reach me: https://discordapp.com/users/809131625794895883
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm not bald
--->
+Projecthighlight
+Projectnaam — korte beschrijving
+
+Rol: developer
+
+Tech: HTML; CSS; JavaScript; PHP
+
+Link: live demo op najikweb.com/projectnaam.
+
+Contact
+E-mail of link naar contactformulier op najikweb.com/contact.
