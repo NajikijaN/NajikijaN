@@ -44,7 +44,7 @@ Ik bouw moderne websites en webapps met een sterke focus op **performance** en *
 
 **🎯 Mijn Rol:** Developer  
 **⚡ Tech Stack:** HTML • CSS • JavaScript • PHP  
-**🔗 Live Demo:** [najikweb.com/projectnaam](https://najikweb.com/projectnaam)
+**🔗 Live Demo:** [najikweb.com/projectnaam](https://najikweb.com)
 
 ---
 
