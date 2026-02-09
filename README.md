@@ -62,7 +62,7 @@ Ik bouw moderne websites en webapps met een sterke focus op **performance** en *
 
 ## 📫 Contact
 
-💌 Neem contact op via [najikweb.com/contact](https://najikweb.com/contact)
+💌 Neem contact op via [najikweb.com/contact](https://najikweb.com/contact.php)
 
 ---
 
