@@ -41,11 +41,11 @@ Ik bouw moderne websites en webapps met een sterke focus op **performance** en *
 
 ### 🌟 [Projectnaam](https://najikweb.com/projectnaam)
 
-> Korte beschrijving van het project en wat het doet
+> B&B De Oude Nude voor Hollandica B.V Wageningen
 
 **🎯 Mijn Rol:** Developer  
-**⚡ Tech Stack:** HTML • CSS • JavaScript • PHP  
-**🔗 Live Demo:** [najikweb.com/projectnaam](https://najikweb.com)
+**⚡ Tech Stack:** HTML • CSS • JavaScript • PHP • MySQL 
+**🔗 Live Demo:** [najikweb.com/projects](https://najikweb.com/projects)
 
 ## 📫 Contact
 
