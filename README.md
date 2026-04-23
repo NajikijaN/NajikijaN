@@ -39,24 +39,18 @@ Ik bouw moderne websites en webapps met een sterke focus op **performance** en *
 
 ## 💼 Project Highlight
 
-### 🌟 [Projectnaam](https://najikweb.com/projectnaam)
+### 🌟 ViewSource
 
-> B&B De Oude Nude voor Hollandica B.V Wageningen
-
-**🎯 Mijn Rol:** Developer  
-**⚡ Tech Stack:** HTML • CSS • JavaScript • PHP • MySQL 
-**🔗 Live Demo:** [najikweb.com/projects](https://najikweb.com/projects)
+> ViewSource is a tool to request the source code of any given URL.
+**🔗 Live Demo:** http://view-source.najikweb.com
 
 ## 📫 Contact
 
-💌 Neem contact op via [najikweb.com/contact](https://najikweb.com/contact.php)
+💌 Neem contact op via [najikweb.com/#contact]
 
 ---
 
 <div align="center">
-  
-### ⚡ "Building the web, one pixel at a time"
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=NajikijaN&color=blueviolet&style=flat-square)
 
 </div>
