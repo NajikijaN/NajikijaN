@@ -42,11 +42,11 @@ Ik bouw moderne websites en webapps met een sterke focus op **performance** en *
 ### 🌟 ViewSource
 
 > ViewSource is a tool to request the source code of any given URL.
-**🔗 Live Demo:** http://view-source.najikweb.com
+**🔗 Live Demo:** [ViewSource](http://view-source.najikweb.com)
 
 ## 📫 Contact
 
-💌 Neem contact op via [najikweb.com/#contact]
+💌 Neem contact op via [najikweb.com/#contact](https://najikweb.com/#contact)
 
 ---
 
