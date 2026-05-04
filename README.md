@@ -4,8 +4,8 @@
 
 ### Frontend Developer | Performance Enthusiast | Accessibility Advocate
 
-[![Website](https://img.shields.io/badge/Website-najikweb.com-blue?style=for-the-badge)](https://najikweb.com)
-[![Email](https://img.shields.io/badge/Contact-Get_in_touch-green?style=for-the-badge)](https://najikweb.com/contact)
+[![Website](https://img.shields.io/badge/Website-najik.dev-blue?style=for-the-badge)](https://najik.dev)
+[![Email](https://img.shields.io/badge/Contact-Get_in_touch-green?style=for-the-badge)](https://najik.dev/#contact)
 
 </div>
 
@@ -15,7 +15,7 @@
 
 Ik bouw moderne websites en webapps met een sterke focus op **performance** en **toegankelijkheid**. Mijn doel is om digitale ervaringen te creëren die snel, toegankelijk en gebruiksvriendelijk zijn voor iedereen. 
 
-🔍 **Bekijk mijn werk:** [najikweb.com](https://najikweb.com)
+🔍 **Bekijk mijn werk:** [najik.dev](https://najik.dev)
 
 ---
 
@@ -42,11 +42,11 @@ Ik bouw moderne websites en webapps met een sterke focus op **performance** en *
 ### 🌟 ViewSource
 
 > ViewSource is a tool to request the source code of any given URL.
-**🔗 Live Demo:** [ViewSource](http://view-source.najikweb.com)
+**🔗 Live Demo:** [ViewSource](https://viewsource.najik.dev)
 
 ## 📫 Contact
 
-💌 Neem contact op via [najikweb.com/#contact](https://najikweb.com/#contact)
+💌 Neem contact op via [najik.dev/#contact](https://najik.dev/#contact)
 
 ---
 
