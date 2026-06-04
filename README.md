@@ -51,8 +51,3 @@ Ik bouw moderne websites en webapps met een sterke focus op **performance** en *
 💌 Neem contact op via [najik.dev/#contact](https://najik.dev/#contact)
 
 ---
-
-<div align="center">
-![Visitor Count](https://komarev.com/ghpvc/?username=NajikijaN&color=blueviolet&style=flat-square)
-
-</div>
